@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/sajad-bana-zadeh">
-    <img src="https://github.com/sajad-bana-zadeh/sajad-bana-zadeh/assets/YOUR_PROFILE_PIC_ID/YOUR_PROFILE_PIC_NAME.png" alt="sajad bana zadeh Profile Picture" width="150" style="border-radius:50%;">
+    <img src="https://avatars.githubusercontent.com/u/86471144?v=4" alt="sajad bana zadeh" width="150" style="border-radius:50%;">
   </a>
   <h1>Hi there 👋 I'm Sajad Bana Zadeh!</h1>
 </div>
