@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/SajjadBanazadeh">
     <img src="https://github.com/SajjadBanazadeh/SajjadBanazadeh/assets/YOUR_PROFILE_PIC_ID/YOUR_PROFILE_PIC_NAME.png" alt="Sajjad Banazadeh Profile Picture" width="150" style="border-radius:50%;">
   </a>
-  <h1>Hi there 👋 I'm Sajjad Banazadeh!</h1>
+  <h1>Hi there 👋 I'm Sajad Bana Zadeh!</h1>
 </div>
 
 ---
